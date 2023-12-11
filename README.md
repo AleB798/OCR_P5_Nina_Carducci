@@ -1,14 +1,13 @@
-# OCR_P5_Nina_Carducci
+# Nina Carducci (P5)
+## Débuggage et optimisation du site d'une photographe
 
-**MISSIONS** :
-  - faire une optimisation globale du site, tant sur les performances que sur le SEO ;
-  - mettre en place le référencement local en utilisant Schema.org ;
-  - ajouter les metas pour les réseaux sociaux ;
-  - faire les modifications liées à l’accessibilité du site ;
-  - produire un rapport d’optimisation présentant toutes vos actions et leur impact.
+### MISSIONS :
+  - Optimiser les performances d’un site web
+  - Débugger un site web grâce aux Chrome DevTools
+  - Rédiger un cahier de recette pour tester un site
 
-    **DEBUGS** :
-      - Revoir navigation modale prev/next.
-      - Filtres catégories : ajouter un fond quand une catégorie est sélectionnée.
+#### DEBUGS :
+  - Revoir navigation modale prev/next.
+  - Filtres catégories : ajouter un fond quand une catégorie est sélectionnée.
    
 
